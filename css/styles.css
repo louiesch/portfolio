@@ -3,6 +3,11 @@ img {
 }
 
 .sidebar {
- width: 30%;
+ width: 300px;
  float: left; 
+}
+
+.my-projects {
+  width: 60%;
+  float: right;
 }
