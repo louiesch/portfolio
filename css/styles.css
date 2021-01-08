@@ -7,7 +7,7 @@ img {
 }
 
 .sidebar {
- width: 300px;
+ width: 30%;
  padding: 10px;
  border: solid black;
  border-width: 2px;
@@ -17,5 +17,5 @@ img {
 }
 
 .my-projects {
-  width: 60%;
+  
 }
