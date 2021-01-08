@@ -17,5 +17,14 @@ img {
 }
 
 .my-projects {
-  
+ width: 65%;
+ float: right;
+}
+
+.repo li a {
+  font-style: italic;
+}
+
+.live li a {
+  font-style: italic;
 }
