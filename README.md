@@ -15,7 +15,7 @@ _This is the final project for my first week at Epicodus. It is a portfolio for 
 
 ## Setup/Installation Requirements
 
-* _To view, go to:_
+* _To view, click [here](https://louiesch.github.io/portfolio/)_
 * _To edit, clone from GitHub and open in web browser_
 
 ## Known Bugs
