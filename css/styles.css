@@ -1,6 +1,6 @@
 body {
   font-family: Verdana;
-  background-color: lightpink;
+  background-color: gainsboro;
 }
 
 img {
@@ -12,6 +12,7 @@ img {
  padding: 10px;
  border: solid black;
  border-width: 2px;
+ margin: 5px;
  background-color: lightblue;
  box-sizing: border-box;
  float: left;
