@@ -15,8 +15,10 @@ _This is the final project for my first week at Epicodus. It is a portfolio for 
 
 ## Setup/Installation Requirements
 
-* _To view, click [here](https://louiesch.github.io/portfolio/)_
-* _To edit, clone from GitHub and open in web browser_
+* _To view on GitHub Pages, click [here](https://louiesch.github.io/portfolio/)._
+* _To clone down and open project, clone the portfolio repository from GitHub._
+* _Navigate to root directory of project in terminal and type 'open index.html' to view in browser._
+* _Open project in text editor to view code._
 
 ## Known Bugs
 
